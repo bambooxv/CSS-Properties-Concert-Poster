@@ -36,10 +36,12 @@ body {
 a:active {
   color: #e0a2f7;
 }
-a {
-margin-left: auto;
-  margin-right: auto;
-  font-size: 12px;
+.live1 {
+margin-top: 2px;
+margin-left: 47%;
+  margin-right: 53%;
+  font-size: 16px;
+	text-align: center;
 }
 
 p {font-family: impact;
@@ -50,4 +52,9 @@ font-size: 24px ;
 }
 .full { margin-left: 5%;
     margin-right: 5%;
+}
+.boxy {
+width: 10%;	
+margin-left: auto;
+    margin-right: auto;	
 }
