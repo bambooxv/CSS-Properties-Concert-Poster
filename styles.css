@@ -1,0 +1,53 @@
+.img1 {
+     display: block;
+    margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.img2 {width: 50%;
+     display: block;
+    margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.img3 {width: 50%;
+     display: block;
+    margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.live {
+    	font-family: impact;
+    	color: white;
+    	text-align:center; 
+
+	}
+.live1 { margin-left: 40%;
+            margin-right: 40%;
+    	font-family: impact;
+    	color: pink;
+    	text-align: center; 
+
+	}
+body {
+    background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/double-bubble-dark.png");
+}
+
+a:active {
+  color: #e0a2f7;
+}
+a {
+margin-left: auto;
+  margin-right: auto;
+  font-size: 12px;
+}
+
+p {font-family: impact;
+    	color: white;
+    	text-align:center;} 
+h1 {
+font-size: 24px ;
+}
+.full { margin-left: 5%;
+    margin-right: 5%;
+}
